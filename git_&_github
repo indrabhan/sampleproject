@@ -63,7 +63,7 @@ git checkout branchName (now you will be in that branch which you specified afte
 git checkout master (here usig master keyword you will be in main branch)
 
 git merge subBranchName (in terminal you should be in main branch)
-	After merge if you made changse in sub file/folder and commit it in sub branch only, than the newly changes will not be available in 		main branch
+	After merge if you made changes in sub file/folder and commit it in sub branch only, than the newly changes will not be available in 		main branch
 
 
 
