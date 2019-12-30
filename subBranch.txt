@@ -1,1 +1,3 @@
-This is sample sub branch file, modified in subBranch
+This is sample sub branch file.
+
+This line is been added in subbranch and shoukd not be seen in main barnch untill you merge subbranch in main branch
